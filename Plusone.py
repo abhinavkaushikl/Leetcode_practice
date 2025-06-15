@@ -16,8 +16,7 @@ def plusOne(digits):
     return [1] + [0] * n
         
 # Example usage:    
-result = plusOne([2, 1, 9])
+result = plusOne([9])
 print(result)
-
 
 # Example usage:
